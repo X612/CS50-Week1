@@ -22,7 +22,7 @@ A simple program that introduces user input and output in C.
 Prints a double half-pyramid of a specified height using nested loops.
 
 ### 💳 Credit
-Implements the **Luhn algorithm** to validate credit card numbers and identify whether they are **American Express**, **MasterCard**, **Visa**, or **INVALID**.
+Implements the **Luhn algorithm** to validate credit card numbers and identify whether they are **American Express**, **Mastercard**, **Visa**, or **INVALID**.
 
 ## 🛠️ Language
 
