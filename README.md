@@ -1,28 +1,31 @@
-# CS50 Week 1
+# CS50 Week 2
 
-This repository contains my solutions for **Week 1** of **Harvard's CS50x: Introduction to Computer Science**.
+This repository contains my solutions for **Week 2** of Harvard's CS50x: Introduction to Computer Science.
 
 ## 📚 Overview
 
-In Week 1, I learned the fundamentals of programming in **C**, including:
+In Week 2, I expanded my understanding of C by working with arrays, strings, and character manipulation. I also learned how to validate input and process text using command-line arguments.
 
-- Variables
-- Data types
-- Conditionals
-- Loops
-- Functions
-- Basic algorithms
+Topics covered include:
+
+- Arrays
+- Strings
+- Character manipulation
+- ASCII
+- `ctype.h`
+- Command-line arguments (`argc`, `argv`)
+- Input validation
 
 ## 📂 Completed Problems
 
-### 👋 Hello
-A simple program that introduces user input and output in C.
+### 🎮 Scrabble
+Calculates and compares the Scrabble scores of two words using letter values.
 
-### 🧱 Mario (More)
-Prints a double half-pyramid of a specified height using nested loops.
+### 📖 Readability
+Analyzes a text and determines its reading grade level using the Coleman-Liau index.
 
-### 💳 Credit
-Implements the **Luhn algorithm** to validate credit card numbers and identify whether they are **American Express**, **Mastercard**, **Visa**, or **INVALID**.
+### 🔐 Substitution
+Encrypts text using a substitution cipher with a user-provided key while validating the key's correctness.
 
 ## 🛠️ Language
 
@@ -33,4 +36,6 @@ Implements the **Luhn algorithm** to validate credit card numbers and identify w
 
 Harvard CS50x – Introduction to Computer Science
 
-🔗 https://cs50.harvard.edu/x/
+## 🔗
+
+https://cs50.harvard.edu/x/
